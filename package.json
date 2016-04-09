@@ -1,0 +1,26 @@
+{
+  "name": "gulp-sqwish",
+  "version": "1.0.0",
+  "description": "Minify css with sqwish.",
+  "author": {
+    "name": "DaWangRaoMing",
+    "email": "514266254@qq.com",
+    "url": "http://www.yeenuo.net"
+  },
+  "main": "index.js",
+  "keywords": [
+    "gulpplugin",
+    "minify",
+    "compress",
+    "compressor"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.yeenuo.net",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "sqwish": "^0.2.2"
+  }
+}
