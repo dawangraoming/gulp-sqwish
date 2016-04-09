@@ -15,10 +15,11 @@
     "compressor"
   ],
   "license": "MIT",
-  "homepage": "http://www.yeenuo.net",
+  "homepage": "https://github.com/dawanraoming/gulp-sqwish",
+  "bugs": "https://github.com/dawanraoming/gulp-sqwish/issues",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/dawanraoming/gulp-sqwish"
   },
   "dependencies": {
     "sqwish": "^0.2.2"
