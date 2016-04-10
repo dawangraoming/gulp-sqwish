@@ -62,6 +62,8 @@ main{color:red;width:500px;height:500px}
 
 
 ##欢迎使用
-基于[sqwish](https://github.com/ded/sqwish)编写的gulp－sqwish
+基于[sqwish](https://github.com/ded/sqwish)编写的gulp插件，用于压缩css。
 
+CSS压缩引擎质量与速度对比：
+[css-minification-benchmark: A comparison of CSS minifiers for node.js](https://goalsmashers.github.io/css-minification-benchmark/)
 
