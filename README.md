@@ -1,10 +1,10 @@
-#gulp-sqwish
+# gulp-sqwish
 
-##Welcome
+## Welcome
 css compress plugin, based on [sqwish](https://github.com/ded/sqwish).
 
 
-##Basic Usage
+## Basic Usage
 ```javascript
 var gulp = require("gulp")
 var sqwish = require('gulp-sqwish');
@@ -30,7 +30,7 @@ main {
 main{width:500px;height:500px}main{color:red}
 ```
 
-###Strict Optimizations
+### Strict Optimizations
 You can also use the strict mode.
 use `{strict:true}`, like this.
 
@@ -61,7 +61,7 @@ main{color:red;width:500px;height:500px}
 
 
 
-##欢迎使用
+## 欢迎使用
 基于[sqwish](https://github.com/ded/sqwish)编写的gulp插件，用于压缩css。
 
 CSS压缩引擎质量与速度对比：
